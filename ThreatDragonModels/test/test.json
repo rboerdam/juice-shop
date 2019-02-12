@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "rb",
+    "description": "fDFD"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TESTDIAGRAM",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "test"
+  }
+}
